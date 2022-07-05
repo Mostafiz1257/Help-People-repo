@@ -122,3 +122,44 @@ background-repeat: no-repeat;
     display: flex;
     margin-left:230px ;
 }
+.like{
+    text-align: center;
+}
+.update-head{
+    text-align: center;
+}
+.end-speach{
+text-align: center;
+}
+.contract{
+    color: rgb(160, 150, 150);
+    border: 0px solid white;
+    width: 190px;
+    height: 20px;
+    border-radius:1px;
+    padding-left: 10px;
+    padding-top: 14px;
+    background-color: rgb(216, 205, 205);
+}
+.subcribe{
+    color: white;
+    border: 0px solid white;
+    width: 80px;
+    height: 20px;
+    border-radius: 1px;
+    padding-left: 10px;
+    padding-top: 14px;
+    background-color: rgb(211, 111, 111);
+    padding-bottom: 1px;
+}
+.connection{
+    display: flex;
+    border: 1px solid white;
+    width: 430px;
+    height: 90px;
+    background-color: rgb(252, 219, 225);
+    padding-left: 100px;
+    padding-top: 40px;
+    border-radius: 5px;
+    margin-left: 400px;
+}
