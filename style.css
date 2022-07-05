@@ -32,3 +32,49 @@ background-repeat: no-repeat;
 .money{
     text-align: center;
 }
+.second{
+    text-align: center;
+}
+.money-amount{
+    display: flex;
+    
+    
+}
+.new{
+    border: 3px solid pink;
+    font-weight:600;
+    background-color: rgb(240, 233, 225);
+    width: 80px;
+    padding-top: 25px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: large;
+    color: rgb(44, 17, 17);  
+}
+.money{
+    display: flex;
+    margin-left: 500px;
+}
+.other-money{
+   text-align:center;
+    color: gray;
+}
+.line
+{
+    width: 50%;
+}
+.donate2{
+    width: 120px;
+    height: 30px;
+    border: 1px solid palevioletred;
+    border-radius: 5px;
+    margin: auto;
+    background-color: palevioletred;
+    padding-top: 8px;
+    color: white;
+    padding-left: 60px;
+
+
+}
