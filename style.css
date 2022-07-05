@@ -15,7 +15,10 @@ background-size:cover;
 background-repeat: no-repeat;
  padding: 200px 20px;
  margin: 0%;
+ 
 }
+
+
 .donate{
     width: 120px;
     height: 30px;
@@ -41,9 +44,9 @@ background-repeat: no-repeat;
     
 }
 .new{
-    border: 3px solid pink;
+    border: 1px solid whitesmoke;
     font-weight:600;
-    background-color: rgb(240, 233, 225);
+    background-color: rgb(216, 195, 170);
     width: 80px;
     padding-top: 25px;
     height: 50px;
@@ -53,6 +56,21 @@ background-repeat: no-repeat;
     font-size: large;
     color: rgb(44, 17, 17);  
 }
+
+#new1{
+    background-color: white;
+}
+#new2{
+    color: chocolate;
+    background-color: rgb(235, 221, 221);
+}
+#new3{
+    background-color: white;
+}
+#new4{
+    background-color: white;
+}
+
 .money{
     display: flex;
     margin-left: 500px;
@@ -76,5 +94,31 @@ background-repeat: no-repeat;
     color: white;
     padding-left: 60px;
 
-
+}
+.donate-plan{
+    text-align: center;
+}
+.food{
+    border:1px solid white;
+    background-color: rgb(253, 248, 242);
+    width: 240px;
+    height: 210px;
+    border-radius: 5px;
+    padding-left: 12px;
+    padding-top: 40px;
+    margin: 15px;
+}
+ #block1{
+    background-color:rgb(232, 240, 240);
+ } 
+ #block2{
+    background-color: rgb(238, 218, 221);
+ } 
+ #block3{
+    background-color:rgb(233, 247, 242);
+ }  
+   
+.essential-goods{
+    display: flex;
+    margin-left:230px ;
 }
